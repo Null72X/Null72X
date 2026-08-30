@@ -36,8 +36,7 @@ I specialize in **reverse engineering**, **Windows internals**, and low-level so
 
 ---
 
-### 🐍 The Contribution Grid Snake
-*The snake game below is updated automatically every 12 hours:*
+### 🐍 The  Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Null72X/Null-Latest-Builds/output/github-contribution-grid-snake-dark.svg" alt="Grid Snake" />
